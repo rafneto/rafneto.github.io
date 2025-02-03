@@ -2,10 +2,10 @@
 layout: post
 title: "My first post"
 date: 2025-01-31
-categoris: welcome
+tags: welcome
 ---
 
-[back](./)
+[Home](/index.md)
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
