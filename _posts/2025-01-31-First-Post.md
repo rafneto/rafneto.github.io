@@ -2,7 +2,7 @@
 layout: post
 title: "My first post"
 date: 2025-01-31
-tags: welcome
+tags: "welcome", "blog"
 ---
 
 [Home](/index.md)
