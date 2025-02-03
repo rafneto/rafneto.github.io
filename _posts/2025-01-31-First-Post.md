@@ -3,7 +3,7 @@ layout: post
 title: "My first post"
 date: 2025-01-31
 author: "Rui Neto"
-tags: "welcome"
+tags: welcome blog
 ---
 
 [Home](/index.md)
