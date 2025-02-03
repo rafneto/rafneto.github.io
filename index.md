@@ -2,4 +2,10 @@
 layout: default
 ---
 
-[Welcome post](./_posts/2025-01-31-First-Post.md).
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
