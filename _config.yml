@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme 
 title: rafneto | blog
 description: CyberSecurity, Systems & Networks.
-site.author: Rui Neto
+author: Rui Neto
