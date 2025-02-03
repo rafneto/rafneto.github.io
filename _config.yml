@@ -1,7 +1,6 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme 
-title: rafneto | blog
-description: CyberSecurity, Systems & Networks
-name: "Rui Neto"
+title: "rafneto | blog"
+description: "CyberSecurity, Systems & Networks"
 author: "Rui Neto"
