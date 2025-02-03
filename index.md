@@ -2,4 +2,4 @@
 layout: default
 ---
 
-[Link to blog page](./blog_page.html).
+[Welcome post](./_posts/2025-01-31-First-Post.md).
