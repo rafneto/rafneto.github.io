@@ -5,8 +5,6 @@ author: "Rui Neto"
 
 # About Me
 
-## Rui Neto  
-
 Hello! I'm Rui Neto, an IT professional with over seven years of experience in IT support, system administration, and cybersecurity. I am passionate about technology, problem-solving, and continuous learning.  
 
 ## Professional Background  
@@ -47,3 +45,6 @@ I am detail-oriented, always seeking to improve and refine my work. I thrive in 
 
 📧 **Email:** ruineto.software@gmail.com  
 🌍 **LinkedIn:** [linkedin.com/in/ruiafneto](https://www.linkedin.com/in/ruiafneto)  
+🌍 **GitHub:** [github.com/rafneto](https://github.com/rafneto)  
+
+
