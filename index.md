@@ -7,10 +7,17 @@ author: "Rui Neto"
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">
-      ## {{ post.title }}
-      _{{post.tags}} {{post.date}}_
-      {{post.short_description}}
-      ![Ŵelcome](images/{{post.thumbnail}})
+      <h2>{{ post.title }}</h2>
+      <table class="tg"><thead>
+        <tr>
+          <td class="tg-73oq">
+            <img src=images/{{post.thumbnail}}/>
+          </td>
+          <td class="tg-73oq">
+            <span>{{post.tags}} {{post.date}}</span>
+            <p>{{post.short_description}}</p></td>
+        </tr></thead>
+      </table>
       </a>
     </li>
   {% endfor %}
