@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "Welcome Post"
+short_description: "Hello and welcome to my blog!  
+I’m **Rui Neto**, an IT professional passionate about technology, system administration, and cybersecurity. I created this space to share my experiences, insights, and technical knowledge with anyone who loves IT, networking, and problem-solving as much as I do.  "
 date: 2025-01-31
 author: "Rui Neto"
 tags: welcome blog
+thumbnail: Welcome-Post.jpeg
 ---
 
 # Welcome to My Blog! 🚀  
